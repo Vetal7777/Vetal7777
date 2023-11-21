@@ -1,3 +1,5 @@
+![Alt text for your image](https://github.com/Vetal7777/Vetal7777/raw/main/header.png)
+
 <p align="center"> 
   As a front-end developer based in Ukraine, my expertise lies in crafting sophisticated single-page applications (SPAs) using Vue and Nuxt. I am dedicated to applying my technical prowess in IT craftsmanship and implementation, leveraging my proficiency in web configuration and troubleshooting to align with and advance the vision and mission of the company.
   
