@@ -17,8 +17,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
@@ -51,4 +49,4 @@
   📊 Github Stats
 </h2>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Semperfai&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vetal7777&theme=dark)
